@@ -9,14 +9,15 @@ I have some experience in Data Science, Machine Learning and Python as well.
 I have worked on several apps and websites, thirsty for learning more and building fascinating products.
 
 
+
 🧰 Toolbox
 ---
 
 <!-- Preserved logos -->
 <p>
-<img  src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  alt="PHP Logo"  width="50"  height="50"/>
-<img  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"  alt="Php Storm Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"  alt="Laravel Logo"  width="50"  height="50"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"  alt="Php Storm Logo"  width="50"  height="50"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  alt="PHP Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  alt="Github Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"  alt="Gitlab Logo"  width="50"  height="50"/>
@@ -27,9 +28,9 @@ I have worked on several apps and websites, thirsty for learning more and buildi
 </p>
 
 
----
 
 ## &#x1f4c8; My GitHub Stats
+---
 
 <div style="display: flex; align-items: flex-start">
 <img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shoa&hide=html,css&theme=tokyonight" />
