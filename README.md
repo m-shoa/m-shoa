@@ -13,6 +13,7 @@ I have worked on several apps and websites, thirsty for learning more and buildi
 🧰 Toolbox
 
 <!-- Preserved logos -->
+<p>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"  alt="PHP Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"  alt="Php Storm Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"  alt="Laravel Logo"  width="50"  height="50"/>
@@ -22,7 +23,8 @@ I have worked on several apps and websites, thirsty for learning more and buildi
 <img  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  alt="Linux Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  alt="Jupiter Logo"  width="50"  height="50"/>
 <img  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  alt="Sass Logo"  width="50"  height="50"/>
-<img  src="https://github.com/devicons/devicon/blob/master/icons/less/less-original-wordmark.svg"  alt="Less Logo"  width="50"  height="50"/>
+<img  src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"  alt="Less Logo"  width="50"  height="50"/>
+</p>
 
 ---
 
