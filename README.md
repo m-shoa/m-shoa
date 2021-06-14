@@ -8,9 +8,9 @@ I have some experience in Data Science, Machine Learning and Python as well.
 
 I have worked on several apps and websites, thirsty for learning more and building fascinating products.
 
----
 
 🧰 Toolbox
+---
 
 <!-- Preserved logos -->
 <p>
@@ -26,12 +26,14 @@ I have worked on several apps and websites, thirsty for learning more and buildi
 <img  src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg"  alt="Less Logo"  width="50"  height="50"/>
 </p>
 
+
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
 <div style="display: flex; align-items: flex-start">
-<img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shoa&hide=html,css&theme=tokyonight" /> <img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=m-shoa&theme=tokyonight" />
+<img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-shoa&hide=html,css&theme=tokyonight" />
+<img align="top" style="margin: 20px 30px; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=m-shoa&theme=tokyonight" />
 </div>
 
 
